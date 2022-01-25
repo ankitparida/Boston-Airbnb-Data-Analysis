@@ -3,9 +3,11 @@
 ## Introduction
 This repository contains Datasets which were Released by AirBnb and a jupyter notebook with detailed Data analysis performed on these datasets. The AirBnb Boston datasets compromised of 3 parts:
   
-  1.listings.csv: Listings and their details
-  2.calender.csv: Availability information at a day-by-day level
-  3.reviews.csv: Reviews for each listing 
+  1.listings.csv: Listings and their details.
+  
+  2.calender.csv: Availability information at a day-by-day level.
+  
+  3.reviews.csv: Reviews for each listing .
 
 ## What are the main questions which we are trying to answers?
   1. Which time of the year is the peak tourist season?
