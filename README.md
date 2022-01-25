@@ -12,7 +12,7 @@ This repository contains Datasets which were Released by AirBnb and a jupyter no
 ## What are the main questions which we are trying to answers?
   1. Which time of the year is the peak tourist season?
   2. How price of a room is corelated with other attributes?
-  3. Which streets accomodates the most expensive AirBnb Properties?
+  3. Which streets accommodates the most expensive AirBnb Homes?
 
 We are also trying to build a predictive model which will predict the price of a AirBnb using different attributes. The algorithms used are MultiLinear Regression, KNN Regressor and Random Forest Regressor.
 
