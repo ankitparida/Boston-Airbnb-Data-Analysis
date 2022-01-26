@@ -55,7 +55,7 @@ Finally, we train a model using a Machine learning library like scikit-learn to 
 ## STAGE FIVE – EVALUATION
 
 To evaluate the performance of the Prediction Model, we use a metric called root mean squared error(RMSE). RMSE is frequently used measure of the differences between values (sample or population values) predicted by a model or an estimator and the values observed.
-The RMSE of Multi Linear Regression Model: 104.106612459728, RandomForest Regressor: 106.42255556446031, RMSE of KNN: 109.57867318952867. The lesser the difference between predicted and Actual Values, the better the model. 
+The RMSE of Multi Linear Regression Model: 96.85966208529585, RandomForest Regressor: 106.93331587322709, RMSE of KNN: 100.50920225445884. The lesser the difference between predicted and Actual Values, the better the model. 
 
 To answer the first three business questions, we used various visualization Techniques.
 
