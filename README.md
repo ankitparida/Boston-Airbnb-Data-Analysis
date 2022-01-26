@@ -44,8 +44,7 @@ I am mainly focusing on first two datasets.
 - To answer the third question- 'Which streets accommodates the most expensive AirBnb Homes?', I am using the listings dataset again. Initially the street column contains the full address of the airbnb home. So I have written a function to filter out the street names from the full addresses.
 
 - After performing statistical analysis, the attributes which I am using to predict the price of a Airbnb homes are 'accommodates','bedrooms','bathrooms','beds','minimum_nights','maximum_nights','number_of_reviews','room_type','bed_type','guests_included'. These attributes were present in the listing dataset. 
-
--To convert the categorical variables I have used the pandas's get_dummies function and then used the standard scaler to transform the data before model creation step.
+- To convert the categorical variables I have used the pandas's get_dummies function and then used the standard scaler to transform the data before model creation step.
 
 ## STAGE FOUR – MODELLING
 
