@@ -1,4 +1,7 @@
-# BOSTON AIRBNB EXPLORATORY DATA ANALYSIS
+# BOSTON AIRBNB EXPLORATORY DATA ANALYSIS USING CRISPDM
+
+## CRISP-DM
+![CRISP-DM Workflow](https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png)
 
 ## Introduction
 This repository contains Datasets which were Released by AirBnb and a jupyter notebook with detailed Data analysis performed on these datasets. The AirBnb Boston datasets compromised of 3 parts:
